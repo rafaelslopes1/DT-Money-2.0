@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-07-29T03:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-07-25T03:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Macbook PRO M2 16GB/1TB",
+      "type": "outcome",
+      "category": "Setup",
+      "price": 15000,
+      "createdAt": "2023-09-25T18:00:00.000Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-07-28T20:23:41.370Z",
+      "id": 4
+    },
+    {
+      "description": "Teste de gasto",
+      "price": 200,
+      "category": "Lanche",
+      "type": "outcome",
+      "createdAt": "2023-07-28T20:42:21.378Z",
+      "id": 5
+    }
+  ]
+}
